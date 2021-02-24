@@ -39,8 +39,40 @@
 
 * 4757 - Member removed  
 
-#### Local  
-
 ### Distribution  
 
-#### Local:
+#### Local  
+
+* 4744 - Created  
+
+* 4745 - Changed  
+
+* 4748 - Deleted  
+
+* 4746 Member added   
+
+* 4747 Member removed   
+
+#### Global  
+
+* 4749 Created  
+
+* 4750 Changed  
+
+* 4753 Deleted  
+
+* 4751 Member added  
+
+* 4752 Member removed  
+
+#### Universal
+
+* 4759 Created  
+
+* 4760 Changed  
+
+* 4763 Deleted  
+
+* 4761 Member added  
+
+* 4762 Member removed  
